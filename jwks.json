@@ -1,12 +1,12 @@
 {
   "keys": [
     {
+      "e": "AQAB",
       "kty": "RSA",
-      "kid": "dev-key-1",
+      "n": "4P0E8gd3JYVPlxBIzbc2cQ0kk896ut5xcrAmhGNA2LFJIw_-Ps4DV_vrZc6C_5GDMxlO3kNxmDDnBdilvSTOrgoPvhzwtEVdESepp8LBxhEKAaMkdM4DIlu2l4mFCIANvICDvnO3yykwj7dqt0_3e45pVUckdmutwV7RYKz5_Ii30JlPM7YE4DF8nXjmA1BLuVbCEnjNjpASmjWB1QTt-9fOVao2T4NJzkS1_cjC8HipbR_jCY6bJhsB9DzbtBqbv0Ca7XcCyrHtJ-Xafg6we9jjX1YgMb536whratxRYmj5aSMfcuKivObGCI-uk20AB_-XRR-XNUlpYcleUK8kaw",
       "use": "sig",
-      "alg": "RS384",
-      "n": "test",
-      "e": "AQAB"
+      "alg": "RS256",
+      "kid": "dev-key-1"
     }
   ]
 }
